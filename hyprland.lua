@@ -30,9 +30,8 @@ hl.monitor({
     scale    = "1",
 })
 hl.monitor({
-  output = "",
   mode = "3440x1440@240",
-  desc =" LG Electronics LG ULTRAGEAR+ 307NTFAED395"
+  desc =" LG Electronics LG ULTRAGEAR+ 307NTFAED395",
   position = "auto",
   scale = 1,
 })
