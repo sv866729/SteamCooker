@@ -35,7 +35,7 @@ hl.monitor({
   desc =" LG Electronics LG ULTRAGEAR+ 307NTFAED395"
   position = "auto",
   scale = 1,
-}
+},
 {
   output = "",
   mode = "preferred",
