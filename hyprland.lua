@@ -39,7 +39,7 @@ hl.monitor({
 --portable usb screen
 hl.monitor({
   output = "desc:Dell Inc. DELL P1424H HZ4X864",
-  mode = "1920x1080@60",
+  mode = "3440x14400@60",
   position = "auto",
   scale = 1})
 
